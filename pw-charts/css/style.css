@@ -1,0 +1,64 @@
+body {
+    background: #eaeaea;
+}
+
+div h2 {
+    color: #4c9050;
+    text-align: center;
+}
+
+.halfRight {
+    display: inline-block;
+    width: 48%;
+    position: relative;
+    float: right;
+}
+
+.halfLeft {
+    display: inline-block;
+    width: 48%;
+    position: relative;
+    float: left;
+}
+
+#dropdownContainer {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+#institutes {
+    background: #f9f9f9;
+}
+
+#tableContainer {
+    margin: 10px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    background: #fff;
+    border: 1px solid #ddd;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: #4caf50;
+    color: #eaeaea;
+}
+
+#infoContainer {
+    width: 100%;
+}
