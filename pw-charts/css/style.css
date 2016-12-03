@@ -10,6 +10,7 @@ div h2 {
 .halfRight {
     display: inline-block;
     width: 48%;
+    height: 100%;
     position: relative;
     float: right;
 }
@@ -17,11 +18,12 @@ div h2 {
 .halfLeft {
     display: inline-block;
     width: 48%;
+    height: 100%;
     position: relative;
     float: left;
 }
 
-#dropdownContainer {
+#dropdownContainer, #year {
     display: inline-block;
     text-align: center;
     width: 100%;

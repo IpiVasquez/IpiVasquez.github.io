@@ -1,0 +1,342 @@
+[
+    {
+        "id": 2,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Computaci\u00f3n",
+        "instituto_id": 2,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 4,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Electr\u00f3nica",
+        "instituto_id": 14,
+        "color": "Pink",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 5,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Mecatr\u00f3nica",
+        "instituto_id": 14,
+        "color": "Gray",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 6,
+        "tipo": 1,
+        "nombre": "Licenciatura en Matem\u00e1ticas Aplicadas",
+        "instituto_id": 18,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 7,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en F\u00ed\u00adsica Aplicada",
+        "instituto_id": 18,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 8,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Dise\u00ed\u00f1o",
+        "instituto_id": 17,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 9,
+        "tipo": 1,
+        "nombre": "Licenciatura en Ciencias Empresariales",
+        "instituto_id": 15,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 10,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Alimentos",
+        "instituto_id": 16,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 11,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ad\u00ed\u00ada Industrial",
+        "instituto_id": 23,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 12,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ad\u00ed\u00ada en Tecnolog\u00ed\u00ad\u00ed\u00adas de C\u00f3mputo Aplicado",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 13,
+        "tipo": 3,
+        "nombre": "Doctorado en Tecnolog\u00ed\u00adas de C\u00f3mputo Aplicado",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 14,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Medios Interactivos",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 15,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ad\u00ed\u00ada en Administraci\u00f3n de Negocios",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 16,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Tecnolog\u00ed\u00ad\u00ed\u00ada Avanzada de Manufactura",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 17,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Sistemas Distribuidos (virtual)",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 18,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Electr\u00f3nica, opci\u00f3n: Sistemas Inteligentes Aplicados",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 19,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Rob\u00f3tica",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 20,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Ciencias: Productos Naturales y Alimentos",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 21,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Modelaci\u00f3n Matem\u00e1tica",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 22,
+        "tipo": 3,
+        "nombre": "Doctorado en Electr\u00f3nica, opci\u00f3n: Sistemas Inteligentes Aplicados",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 23,
+        "tipo": 3,
+        "nombre": "Doctorado en Modelaci\u00f3n Matem\u00e1tica",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 24,
+        "tipo": 3,
+        "nombre": "Doctorado en Rob\u00f3tica",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 26,
+        "tipo": 3,
+        "nombre": "Doctorado en Electr\u00f3nica y Computaci\u00f3n",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 27,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Electr\u00f3nica y Computaci\u00f3n",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 28,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Ingenier\u00ed\u00ada de Software",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 29,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Dise\u00ed\u00f1o de Muebles",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 30,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Dise\u00ed\u00f1o de Modas",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": 0,
+        "horas_clase": null,
+        "chorario": ""
+    },
+    {
+        "id": 31,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada en Ciencias de Materiales",
+        "instituto_id": 21,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 32,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Mec\u00e1nica Automotriz",
+        "instituto_id": 18,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 33,
+        "tipo": 2,
+        "nombre": "Maestr\u00ed\u00ada Virtual en Computaci\u00f3n con Especialidad en Sistemas Distribuidos",
+        "instituto_id": 25,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "8 9 10 11 12 13 14 15 16 17 18 19 20",
+        "chorario": ""
+    },
+    {
+        "id": 34,
+        "tipo": 1,
+        "nombre": "Licenciatura en Estudios Mexicanos",
+        "instituto_id": 25,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "8 9 10 11 12 13 14 15 16 17 18 19 20",
+        "chorario": ""
+    },
+    {
+        "id": 35,
+        "tipo": 1,
+        "nombre": "Licenciatura en Inform\u00e1tica",
+        "instituto_id": 26,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 36,
+        "tipo": 1,
+        "nombre": "Ingenier\u00ed\u00ada en Agronom\u00ed\u00ada",
+        "instituto_id": 26,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "",
+        "chorario": ""
+    },
+    {
+        "id": 37,
+        "tipo": 1,
+        "nombre": "Licenciatura en Administraci\u00f3n",
+        "instituto_id": 26,
+        "color": "",
+        "imagen_id": null,
+        "horas_clase": "",
+        "chorario": ""
+    }
+]

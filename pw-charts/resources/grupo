@@ -1,0 +1,4352 @@
+[
+    {
+        "id": 2,
+        "codigo": "102-A",
+        "alumnos": 30,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 3,
+        "codigo": "102-B",
+        "alumnos": 29,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 4,
+        "codigo": "302",
+        "alumnos": 42,
+        "carrera_id": 2,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 5,
+        "codigo": "502",
+        "alumnos": 19,
+        "carrera_id": 2,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 6,
+        "codigo": "702",
+        "alumnos": 27,
+        "carrera_id": 2,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 7,
+        "codigo": "902",
+        "alumnos": 12,
+        "carrera_id": 2,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 8,
+        "codigo": "104-A",
+        "alumnos": 25,
+        "carrera_id": 4,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 9,
+        "codigo": "304",
+        "alumnos": 19,
+        "carrera_id": 4,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 10,
+        "codigo": "504",
+        "alumnos": 33,
+        "carrera_id": 4,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 11,
+        "codigo": "704",
+        "alumnos": 9,
+        "carrera_id": 4,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 12,
+        "codigo": "904",
+        "alumnos": 9,
+        "carrera_id": 4,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 13,
+        "codigo": "103-A",
+        "alumnos": 25,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 14,
+        "codigo": "103-B",
+        "alumnos": 24,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 15,
+        "codigo": "303-A",
+        "alumnos": 36,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 16,
+        "codigo": "303-B",
+        "alumnos": 36,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 17,
+        "codigo": "503-A",
+        "alumnos": 33,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 18,
+        "codigo": "703",
+        "alumnos": 40,
+        "carrera_id": 8,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 19,
+        "codigo": "903",
+        "alumnos": 35,
+        "carrera_id": 8,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 20,
+        "codigo": "105-A",
+        "alumnos": 31,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 21,
+        "codigo": "105-B",
+        "alumnos": 31,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 22,
+        "codigo": "105-C",
+        "alumnos": 32,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 23,
+        "codigo": "305-A",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 24,
+        "codigo": "305-B",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 25,
+        "codigo": "505-A",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 26,
+        "codigo": "705",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 27,
+        "codigo": "905",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 28,
+        "codigo": "107",
+        "alumnos": 26,
+        "carrera_id": 6,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 29,
+        "codigo": "307",
+        "alumnos": 11,
+        "carrera_id": 6,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 30,
+        "codigo": "507",
+        "alumnos": 6,
+        "carrera_id": 6,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 31,
+        "codigo": "707",
+        "alumnos": 9,
+        "carrera_id": 6,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 32,
+        "codigo": "907",
+        "alumnos": 3,
+        "carrera_id": 6,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 33,
+        "codigo": "106",
+        "alumnos": 31,
+        "carrera_id": 10,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 34,
+        "codigo": "306",
+        "alumnos": 16,
+        "carrera_id": 10,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 35,
+        "codigo": "506",
+        "alumnos": 11,
+        "carrera_id": 10,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 36,
+        "codigo": "706",
+        "alumnos": 2,
+        "carrera_id": 10,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 37,
+        "codigo": "906",
+        "alumnos": 14,
+        "carrera_id": 10,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 38,
+        "codigo": "111-A",
+        "alumnos": 38,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 39,
+        "codigo": "111-B",
+        "alumnos": 37,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 40,
+        "codigo": "311",
+        "alumnos": 40,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 41,
+        "codigo": "511",
+        "alumnos": 25,
+        "carrera_id": 11,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 42,
+        "codigo": "711",
+        "alumnos": 15,
+        "carrera_id": 11,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 43,
+        "codigo": "911",
+        "alumnos": 10,
+        "carrera_id": 11,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 44,
+        "codigo": "114-A",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 45,
+        "codigo": "114-B",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 46,
+        "codigo": "114-C",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 47,
+        "codigo": "114-D",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 48,
+        "codigo": "314-A",
+        "alumnos": 28,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 49,
+        "codigo": "314-B",
+        "alumnos": 28,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 50,
+        "codigo": "514",
+        "alumnos": 41,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 51,
+        "codigo": "714",
+        "alumnos": 37,
+        "carrera_id": 5,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 52,
+        "codigo": "914",
+        "alumnos": 15,
+        "carrera_id": 5,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 53,
+        "codigo": "117-A",
+        "alumnos": 22,
+        "carrera_id": 7,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 54,
+        "codigo": "117-B",
+        "alumnos": 22,
+        "carrera_id": 7,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 55,
+        "codigo": "317",
+        "alumnos": 12,
+        "carrera_id": 7,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 56,
+        "codigo": "517",
+        "alumnos": 6,
+        "carrera_id": 7,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 57,
+        "codigo": "717",
+        "alumnos": 6,
+        "carrera_id": 7,
+        "semestre": 7,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 58,
+        "codigo": "917",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 9,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 59,
+        "codigo": "104-B",
+        "alumnos": 26,
+        "carrera_id": 4,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 60,
+        "codigo": "103-C",
+        "alumnos": 25,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 61,
+        "codigo": "503-B",
+        "alumnos": 32,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 62,
+        "codigo": "505-B",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 5,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 63,
+        "codigo": "314-C",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 64,
+        "codigo": "MMI1",
+        "alumnos": 3,
+        "carrera_id": 14,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 65,
+        "codigo": "MMI3",
+        "alumnos": 1,
+        "carrera_id": 14,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 66,
+        "codigo": "MMM1",
+        "alumnos": 4,
+        "carrera_id": 21,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 67,
+        "codigo": "MMM3",
+        "alumnos": 3,
+        "carrera_id": 21,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 68,
+        "codigo": "MCPNA1",
+        "alumnos": 6,
+        "carrera_id": 20,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 69,
+        "codigo": "MCPNA3",
+        "alumnos": 2,
+        "carrera_id": 20,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 70,
+        "codigo": "MESIA1",
+        "alumnos": 3,
+        "carrera_id": 18,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 71,
+        "codigo": "MESIA3",
+        "alumnos": 2,
+        "carrera_id": 18,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 72,
+        "codigo": "DR3",
+        "alumnos": 1,
+        "carrera_id": 24,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 73,
+        "codigo": "DESIA3",
+        "alumnos": 2,
+        "carrera_id": 22,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 74,
+        "codigo": "DMM1",
+        "alumnos": 4,
+        "carrera_id": 23,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 75,
+        "codigo": "MTAM1",
+        "alumnos": 2,
+        "carrera_id": 16,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 76,
+        "codigo": "MTAM3",
+        "alumnos": 2,
+        "carrera_id": 16,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 77,
+        "codigo": "MAN1",
+        "alumnos": 6,
+        "carrera_id": 15,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 78,
+        "codigo": "MAN3",
+        "alumnos": 4,
+        "carrera_id": 15,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 79,
+        "codigo": "MR1",
+        "alumnos": 4,
+        "carrera_id": 19,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 80,
+        "codigo": "MR3",
+        "alumnos": 1,
+        "carrera_id": 19,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 81,
+        "codigo": "MTCA1",
+        "alumnos": 5,
+        "carrera_id": 12,
+        "semestre": 1,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 82,
+        "codigo": "MTCA3",
+        "alumnos": 5,
+        "carrera_id": 12,
+        "semestre": 3,
+        "anio": 2015,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 83,
+        "codigo": "1002-A",
+        "alumnos": 11,
+        "carrera_id": 2,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 84,
+        "codigo": "202-B",
+        "alumnos": 29,
+        "carrera_id": 2,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 85,
+        "codigo": "202-A",
+        "alumnos": 30,
+        "carrera_id": 2,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 86,
+        "codigo": "402-A",
+        "alumnos": 34,
+        "carrera_id": 2,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 87,
+        "codigo": "602-A",
+        "alumnos": 18,
+        "carrera_id": 2,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 88,
+        "codigo": "802-A",
+        "alumnos": 21,
+        "carrera_id": 2,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 89,
+        "codigo": "204-A",
+        "alumnos": 26,
+        "carrera_id": 4,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 90,
+        "codigo": "204-B",
+        "alumnos": 26,
+        "carrera_id": 4,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 91,
+        "codigo": "404-A",
+        "alumnos": 15,
+        "carrera_id": 4,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 92,
+        "codigo": "604-A",
+        "alumnos": 16,
+        "carrera_id": 4,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 93,
+        "codigo": "804-A",
+        "alumnos": 8,
+        "carrera_id": 4,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 94,
+        "codigo": "1004-A",
+        "alumnos": 9,
+        "carrera_id": 4,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 95,
+        "codigo": "203-A",
+        "alumnos": 35,
+        "carrera_id": 8,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 96,
+        "codigo": "203-B",
+        "alumnos": 36,
+        "carrera_id": 8,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 97,
+        "codigo": "403-A",
+        "alumnos": 36,
+        "carrera_id": 8,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 98,
+        "codigo": "403-B",
+        "alumnos": 32,
+        "carrera_id": 8,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 99,
+        "codigo": "603-A",
+        "alumnos": 39,
+        "carrera_id": 8,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 100,
+        "codigo": "803-A",
+        "alumnos": 41,
+        "carrera_id": 8,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 101,
+        "codigo": "1003-A",
+        "alumnos": 33,
+        "carrera_id": 8,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 102,
+        "codigo": "205-A",
+        "alumnos": 31,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 103,
+        "codigo": "205-B",
+        "alumnos": 33,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 104,
+        "codigo": "205-C",
+        "alumnos": 35,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 105,
+        "codigo": "405-A",
+        "alumnos": 20,
+        "carrera_id": 9,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 106,
+        "codigo": "405-B",
+        "alumnos": 19,
+        "carrera_id": 9,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 107,
+        "codigo": "605-A",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 108,
+        "codigo": "605-B",
+        "alumnos": 27,
+        "carrera_id": 9,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 109,
+        "codigo": "805-A",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 110,
+        "codigo": "1005-A",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 111,
+        "codigo": "207-A",
+        "alumnos": 26,
+        "carrera_id": 6,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 112,
+        "codigo": "407-A",
+        "alumnos": 11,
+        "carrera_id": 6,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 113,
+        "codigo": "607-A",
+        "alumnos": 4,
+        "carrera_id": 6,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 114,
+        "codigo": "807-A",
+        "alumnos": 8,
+        "carrera_id": 6,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 115,
+        "codigo": "1007-A",
+        "alumnos": 3,
+        "carrera_id": 6,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 116,
+        "codigo": "206-A",
+        "alumnos": 30,
+        "carrera_id": 10,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 117,
+        "codigo": "406-A",
+        "alumnos": 9,
+        "carrera_id": 10,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 118,
+        "codigo": "606-A",
+        "alumnos": 10,
+        "carrera_id": 10,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 119,
+        "codigo": "806-A",
+        "alumnos": 2,
+        "carrera_id": 10,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 120,
+        "codigo": "1006-A",
+        "alumnos": 7,
+        "carrera_id": 10,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 121,
+        "codigo": "211-A",
+        "alumnos": 38,
+        "carrera_id": 11,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 122,
+        "codigo": "211-B",
+        "alumnos": 36,
+        "carrera_id": 11,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 123,
+        "codigo": "411-A",
+        "alumnos": 32,
+        "carrera_id": 11,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 124,
+        "codigo": "611-A",
+        "alumnos": 24,
+        "carrera_id": 11,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 125,
+        "codigo": "811-A",
+        "alumnos": 17,
+        "carrera_id": 11,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 126,
+        "codigo": "1011-A",
+        "alumnos": 10,
+        "carrera_id": 11,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 127,
+        "codigo": "214-A",
+        "alumnos": 39,
+        "carrera_id": 5,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 128,
+        "codigo": "214-B",
+        "alumnos": 39,
+        "carrera_id": 5,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 129,
+        "codigo": "214-C",
+        "alumnos": 39,
+        "carrera_id": 5,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 130,
+        "codigo": "214-D",
+        "alumnos": 37,
+        "carrera_id": 5,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 131,
+        "codigo": "414-A",
+        "alumnos": 25,
+        "carrera_id": 5,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 132,
+        "codigo": "414-B",
+        "alumnos": 29,
+        "carrera_id": 5,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 133,
+        "codigo": "614-A",
+        "alumnos": 38,
+        "carrera_id": 5,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 134,
+        "codigo": "814-A",
+        "alumnos": 28,
+        "carrera_id": 5,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 135,
+        "codigo": "1014-A",
+        "alumnos": 13,
+        "carrera_id": 5,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 136,
+        "codigo": "217-A",
+        "alumnos": 18,
+        "carrera_id": 7,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 137,
+        "codigo": "217-B",
+        "alumnos": 20,
+        "carrera_id": 7,
+        "semestre": 2,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 138,
+        "codigo": "417-A",
+        "alumnos": 9,
+        "carrera_id": 7,
+        "semestre": 4,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 139,
+        "codigo": "617-A",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 6,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 140,
+        "codigo": "817-A",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 8,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 141,
+        "codigo": "1017-A",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 10,
+        "anio": 2015,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 142,
+        "codigo": "MTCA1P",
+        "alumnos": 1,
+        "carrera_id": 12,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "* Corregir alumnos"
+    },
+    {
+        "id": 143,
+        "codigo": "MEOSIA1P",
+        "alumnos": 1,
+        "carrera_id": 18,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "* Corregir cantidad de alumnos"
+    },
+    {
+        "id": 145,
+        "codigo": "MROB-P-2016",
+        "alumnos": 1,
+        "carrera_id": 19,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "Ratificar No. de Alumnos"
+    },
+    {
+        "id": 155,
+        "codigo": "MCM-P-2016",
+        "alumnos": 1,
+        "carrera_id": 31,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "Ratificar No. de alumnos"
+    },
+    {
+        "id": 156,
+        "codigo": "MCPNyAl-P-2016",
+        "alumnos": 1,
+        "carrera_id": 20,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "Ratificar No. de Alumnos"
+    },
+    {
+        "id": 157,
+        "codigo": "MDModas-P-2016",
+        "alumnos": 1,
+        "carrera_id": 30,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 158,
+        "codigo": "MDMuebles-P-2016",
+        "alumnos": 1,
+        "carrera_id": 29,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 159,
+        "codigo": "MCMat-P-2016",
+        "alumnos": 1,
+        "carrera_id": 31,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 160,
+        "codigo": "MMI-P-2016",
+        "alumnos": 1,
+        "carrera_id": 14,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 161,
+        "codigo": "MMM-P-2016",
+        "alumnos": 1,
+        "carrera_id": 21,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 162,
+        "codigo": "MSD-P-2016",
+        "alumnos": 1,
+        "carrera_id": 17,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 163,
+        "codigo": "MTAM-P-2016",
+        "alumnos": 1,
+        "carrera_id": 16,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 164,
+        "codigo": "MAN-P-2016",
+        "alumnos": 1,
+        "carrera_id": 15,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 165,
+        "codigo": "MAN-CV-2016",
+        "alumnos": 5,
+        "carrera_id": 15,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "CURSO DE VERANO PARA ADELANTAR EN EL SEMESTRE"
+    },
+    {
+        "id": 166,
+        "codigo": "MCSD-P-2016",
+        "alumnos": 1,
+        "carrera_id": 17,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": "Ratificar No. de alumnos"
+    },
+    {
+        "id": 167,
+        "codigo": "MT",
+        "alumnos": 1,
+        "carrera_id": 12,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 168,
+        "codigo": "MTCA-CV-2016",
+        "alumnos": 1,
+        "carrera_id": 12,
+        "semestre": 0,
+        "anio": 2016,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 169,
+        "codigo": "1002",
+        "alumnos": 15,
+        "carrera_id": 2,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 170,
+        "codigo": "802",
+        "alumnos": 15,
+        "carrera_id": 2,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 171,
+        "codigo": "602",
+        "alumnos": 20,
+        "carrera_id": 2,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 172,
+        "codigo": "202 - A",
+        "alumnos": 20,
+        "carrera_id": 2,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 173,
+        "codigo": "202 - B",
+        "alumnos": 20,
+        "carrera_id": 2,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 174,
+        "codigo": "402",
+        "alumnos": 20,
+        "carrera_id": 2,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 175,
+        "codigo": "206",
+        "alumnos": 20,
+        "carrera_id": 10,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 176,
+        "codigo": "406",
+        "alumnos": 20,
+        "carrera_id": 10,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 177,
+        "codigo": "606",
+        "alumnos": 20,
+        "carrera_id": 10,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 178,
+        "codigo": "806",
+        "alumnos": 20,
+        "carrera_id": 10,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 179,
+        "codigo": "1006",
+        "alumnos": 20,
+        "carrera_id": 10,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 180,
+        "codigo": "203 - A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 181,
+        "codigo": "203- B",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 182,
+        "codigo": "203 - C",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 183,
+        "codigo": "403 - A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 184,
+        "codigo": "403 - B",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 185,
+        "codigo": "603 - A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 186,
+        "codigo": "803 - A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 187,
+        "codigo": "1003 - A",
+        "alumnos": 20,
+        "carrera_id": 8,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 188,
+        "codigo": "204 - A",
+        "alumnos": 30,
+        "carrera_id": 4,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 189,
+        "codigo": "404 - A",
+        "alumnos": 20,
+        "carrera_id": 4,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 190,
+        "codigo": "604 - A",
+        "alumnos": 20,
+        "carrera_id": 4,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 191,
+        "codigo": "804 - A",
+        "alumnos": 20,
+        "carrera_id": 4,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 193,
+        "codigo": "1004 - A",
+        "alumnos": 20,
+        "carrera_id": 4,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 194,
+        "codigo": "205 - A",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 195,
+        "codigo": "205 - B",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 196,
+        "codigo": "205 - C",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 197,
+        "codigo": "405 - A",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 198,
+        "codigo": "405 - B",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 199,
+        "codigo": "605 - A",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 200,
+        "codigo": "805 - A",
+        "alumnos": 20,
+        "carrera_id": 9,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 201,
+        "codigo": "805 - B",
+        "alumnos": 20,
+        "carrera_id": 9,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 202,
+        "codigo": "1005 - A",
+        "alumnos": 20,
+        "carrera_id": 9,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 203,
+        "codigo": "217 - A",
+        "alumnos": 20,
+        "carrera_id": 7,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 204,
+        "codigo": "417 - A",
+        "alumnos": 20,
+        "carrera_id": 7,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 205,
+        "codigo": "617 - A",
+        "alumnos": 20,
+        "carrera_id": 7,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 206,
+        "codigo": "817 - A",
+        "alumnos": 20,
+        "carrera_id": 7,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 207,
+        "codigo": "1017 - A",
+        "alumnos": 15,
+        "carrera_id": 7,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 208,
+        "codigo": "211 - A",
+        "alumnos": 30,
+        "carrera_id": 11,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 209,
+        "codigo": "211 - B",
+        "alumnos": 30,
+        "carrera_id": 11,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 210,
+        "codigo": "411 - A",
+        "alumnos": 20,
+        "carrera_id": 11,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 211,
+        "codigo": "611 - A",
+        "alumnos": 20,
+        "carrera_id": 11,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 212,
+        "codigo": "811 - A",
+        "alumnos": 20,
+        "carrera_id": 11,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 213,
+        "codigo": "1011 - A",
+        "alumnos": 20,
+        "carrera_id": 11,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 214,
+        "codigo": "207 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 2,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 215,
+        "codigo": "407 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 4,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 216,
+        "codigo": "607 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 6,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 217,
+        "codigo": "807 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 8,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 218,
+        "codigo": "1007 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 10,
+        "anio": 2016,
+        "periodo": "B",
+        "comentario": ""
+    },
+    {
+        "id": 219,
+        "codigo": "102 - A",
+        "alumnos": 30,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 220,
+        "codigo": "102 - B",
+        "alumnos": 30,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 221,
+        "codigo": "302-A",
+        "alumnos": 25,
+        "carrera_id": 2,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 222,
+        "codigo": "502 - A",
+        "alumnos": 20,
+        "carrera_id": 2,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 223,
+        "codigo": "702 - A",
+        "alumnos": 18,
+        "carrera_id": 2,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 224,
+        "codigo": "902 - A",
+        "alumnos": 15,
+        "carrera_id": 2,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 225,
+        "codigo": "104 - A",
+        "alumnos": 35,
+        "carrera_id": 4,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 226,
+        "codigo": "304 - A",
+        "alumnos": 35,
+        "carrera_id": 4,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 227,
+        "codigo": "504 - A",
+        "alumnos": 30,
+        "carrera_id": 4,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 228,
+        "codigo": "704 - A",
+        "alumnos": 30,
+        "carrera_id": 4,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 229,
+        "codigo": "904 - A",
+        "alumnos": 25,
+        "carrera_id": 4,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 230,
+        "codigo": "103 - A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 231,
+        "codigo": "103 - B",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 232,
+        "codigo": "103 - C",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 233,
+        "codigo": "303 - A",
+        "alumnos": 26,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 234,
+        "codigo": "303 - B",
+        "alumnos": 26,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 235,
+        "codigo": "503 - A",
+        "alumnos": 18,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 236,
+        "codigo": "503 - B",
+        "alumnos": 17,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 237,
+        "codigo": "703 - A",
+        "alumnos": 36,
+        "carrera_id": 8,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 238,
+        "codigo": "903 - A",
+        "alumnos": 40,
+        "carrera_id": 8,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 239,
+        "codigo": "105 - A",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 240,
+        "codigo": "105 - B",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 241,
+        "codigo": "105 - C",
+        "alumnos": 25,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 242,
+        "codigo": "305 - A",
+        "alumnos": 29,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 243,
+        "codigo": "305 - B",
+        "alumnos": 29,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 244,
+        "codigo": "505 - A",
+        "alumnos": 37,
+        "carrera_id": 9,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 245,
+        "codigo": "705 - A",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 246,
+        "codigo": "705 - B",
+        "alumnos": 25,
+        "carrera_id": 9,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 247,
+        "codigo": "905 - A",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 248,
+        "codigo": "107 - A",
+        "alumnos": 20,
+        "carrera_id": 6,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 249,
+        "codigo": "307 - A",
+        "alumnos": 7,
+        "carrera_id": 6,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 250,
+        "codigo": "507 - A",
+        "alumnos": 7,
+        "carrera_id": 6,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 251,
+        "codigo": "707 - A",
+        "alumnos": 3,
+        "carrera_id": 6,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 252,
+        "codigo": "907 - A",
+        "alumnos": 8,
+        "carrera_id": 6,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 253,
+        "codigo": "106 - A",
+        "alumnos": 22,
+        "carrera_id": 10,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 254,
+        "codigo": "306 - A",
+        "alumnos": 14,
+        "carrera_id": 10,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 255,
+        "codigo": "506 - A",
+        "alumnos": 9,
+        "carrera_id": 10,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 256,
+        "codigo": "706 - A",
+        "alumnos": 10,
+        "carrera_id": 10,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 257,
+        "codigo": "906 - A",
+        "alumnos": 2,
+        "carrera_id": 10,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 258,
+        "codigo": "111 - A",
+        "alumnos": 30,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 259,
+        "codigo": "111 - B",
+        "alumnos": 30,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 260,
+        "codigo": "311 - A",
+        "alumnos": 31,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 261,
+        "codigo": "311 - B",
+        "alumnos": 30,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 262,
+        "codigo": "511 - A",
+        "alumnos": 21,
+        "carrera_id": 11,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 263,
+        "codigo": "711 - A",
+        "alumnos": 24,
+        "carrera_id": 11,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 264,
+        "codigo": "911 - A",
+        "alumnos": 17,
+        "carrera_id": 11,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 265,
+        "codigo": "114 - A",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 266,
+        "codigo": "114 - B",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 267,
+        "codigo": "114 - C",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 268,
+        "codigo": "114 - D",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 269,
+        "codigo": "114 - E",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 270,
+        "codigo": "314 - A",
+        "alumnos": 33,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 271,
+        "codigo": "314 - B",
+        "alumnos": 33,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 272,
+        "codigo": "314 - C",
+        "alumnos": 33,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 273,
+        "codigo": "514 - A",
+        "alumnos": 32,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 274,
+        "codigo": "714 - A",
+        "alumnos": 25,
+        "carrera_id": 5,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 275,
+        "codigo": "914 - A",
+        "alumnos": 26,
+        "carrera_id": 5,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 276,
+        "codigo": "117 - A",
+        "alumnos": 40,
+        "carrera_id": 7,
+        "semestre": 1,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 277,
+        "codigo": "317 - A",
+        "alumnos": 17,
+        "carrera_id": 7,
+        "semestre": 3,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 278,
+        "codigo": "517 - A",
+        "alumnos": 18,
+        "carrera_id": 7,
+        "semestre": 5,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 279,
+        "codigo": "717 - A",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 7,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 280,
+        "codigo": "917 - A",
+        "alumnos": 7,
+        "carrera_id": 7,
+        "semestre": 9,
+        "anio": 2016,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 281,
+        "codigo": "PCIC-001",
+        "alumnos": 40,
+        "carrera_id": 2,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 282,
+        "codigo": "PCIC-002",
+        "alumnos": 40,
+        "carrera_id": 2,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 283,
+        "codigo": "PCID-001",
+        "alumnos": 40,
+        "carrera_id": 8,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 284,
+        "codigo": "PCID-002",
+        "alumnos": 40,
+        "carrera_id": 8,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 285,
+        "codigo": "PCID-003",
+        "alumnos": 40,
+        "carrera_id": 8,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 286,
+        "codigo": "PCIE-001",
+        "alumnos": 40,
+        "carrera_id": 4,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 287,
+        "codigo": "PCLMA-001",
+        "alumnos": 40,
+        "carrera_id": 6,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 288,
+        "codigo": "PCIA-001",
+        "alumnos": 40,
+        "carrera_id": 10,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 289,
+        "codigo": "PCII-001",
+        "alumnos": 40,
+        "carrera_id": 11,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 290,
+        "codigo": "PCII-002",
+        "alumnos": 40,
+        "carrera_id": 11,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 291,
+        "codigo": "PCIM-001",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 292,
+        "codigo": "PCIM-002",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 293,
+        "codigo": "PCIM-003",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 294,
+        "codigo": "PCIM-004",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 295,
+        "codigo": "PCIM-005",
+        "alumnos": 40,
+        "carrera_id": 5,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 296,
+        "codigo": "PCIFA-001",
+        "alumnos": 40,
+        "carrera_id": 7,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 297,
+        "codigo": "PCIMA-001",
+        "alumnos": 40,
+        "carrera_id": 32,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 298,
+        "codigo": "PCIMA-002",
+        "alumnos": 40,
+        "carrera_id": 32,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 299,
+        "codigo": "PCCE-001",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 300,
+        "codigo": "PCCE-002",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 301,
+        "codigo": "PCCE-003",
+        "alumnos": 40,
+        "carrera_id": 9,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 303,
+        "codigo": "VIC3",
+        "alumnos": 5,
+        "carrera_id": 2,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 304,
+        "codigo": "VIC5",
+        "alumnos": 1,
+        "carrera_id": 2,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 305,
+        "codigo": "VIE1",
+        "alumnos": 13,
+        "carrera_id": 4,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 308,
+        "codigo": "VIE3",
+        "alumnos": 6,
+        "carrera_id": 4,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 309,
+        "codigo": "VIE5",
+        "alumnos": 3,
+        "carrera_id": 4,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 310,
+        "codigo": "VIE7",
+        "alumnos": 5,
+        "carrera_id": 4,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 311,
+        "codigo": "VID1",
+        "alumnos": 11,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 312,
+        "codigo": "VID3",
+        "alumnos": 16,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 314,
+        "codigo": "VID4",
+        "alumnos": 12,
+        "carrera_id": 8,
+        "semestre": 4,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 316,
+        "codigo": "VID5",
+        "alumnos": 7,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 317,
+        "codigo": "VID6",
+        "alumnos": 2,
+        "carrera_id": 8,
+        "semestre": 6,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 318,
+        "codigo": "VID9",
+        "alumnos": 1,
+        "carrera_id": 8,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 319,
+        "codigo": "VID10",
+        "alumnos": 1,
+        "carrera_id": 8,
+        "semestre": 10,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 320,
+        "codigo": "VCE1",
+        "alumnos": 13,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 323,
+        "codigo": "VCE3",
+        "alumnos": 9,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 324,
+        "codigo": "VCE7",
+        "alumnos": 1,
+        "carrera_id": 9,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 325,
+        "codigo": "VCE9",
+        "alumnos": 6,
+        "carrera_id": 9,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 326,
+        "codigo": "VLMA1",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 327,
+        "codigo": "VLMA2",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 2,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 328,
+        "codigo": "VLMA3",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 329,
+        "codigo": "VLMA5",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 330,
+        "codigo": "VLMA9",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 331,
+        "codigo": "VLMA10",
+        "alumnos": 1,
+        "carrera_id": 6,
+        "semestre": 10,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 332,
+        "codigo": "VIA3",
+        "alumnos": 1,
+        "carrera_id": 10,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 333,
+        "codigo": "VIA5",
+        "alumnos": 2,
+        "carrera_id": 10,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 334,
+        "codigo": "VII1",
+        "alumnos": 7,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 337,
+        "codigo": "VII3",
+        "alumnos": 11,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 339,
+        "codigo": "VII5",
+        "alumnos": 2,
+        "carrera_id": 11,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 343,
+        "codigo": "VIM1",
+        "alumnos": 36,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 345,
+        "codigo": "VIM3",
+        "alumnos": 27,
+        "carrera_id": 5,
+        "semestre": 4,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 347,
+        "codigo": "VIM4",
+        "alumnos": 1,
+        "carrera_id": 5,
+        "semestre": 4,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 349,
+        "codigo": "VIM5",
+        "alumnos": 1,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 352,
+        "codigo": "VIM6",
+        "alumnos": 4,
+        "carrera_id": 5,
+        "semestre": 6,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 354,
+        "codigo": "VIM7",
+        "alumnos": 2,
+        "carrera_id": 5,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 356,
+        "codigo": "VIFA1",
+        "alumnos": 3,
+        "carrera_id": 7,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 357,
+        "codigo": "VIFA3",
+        "alumnos": 1,
+        "carrera_id": 7,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 358,
+        "codigo": "VIFA7",
+        "alumnos": 1,
+        "carrera_id": 7,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 359,
+        "codigo": "PMTCA",
+        "alumnos": 10,
+        "carrera_id": 12,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 360,
+        "codigo": "PMEOSIA",
+        "alumnos": 10,
+        "carrera_id": 18,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 361,
+        "codigo": "PMR",
+        "alumnos": 10,
+        "carrera_id": 19,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 362,
+        "codigo": "PMI",
+        "alumnos": 10,
+        "carrera_id": 14,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 363,
+        "codigo": "PAN",
+        "alumnos": 10,
+        "carrera_id": 15,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 365,
+        "codigo": "PMTAM",
+        "alumnos": 10,
+        "carrera_id": 16,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 366,
+        "codigo": "PMCPNA",
+        "alumnos": 10,
+        "carrera_id": 20,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 367,
+        "codigo": "PMMM",
+        "alumnos": 10,
+        "carrera_id": 21,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 368,
+        "codigo": "PMCM",
+        "alumnos": 10,
+        "carrera_id": 31,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 369,
+        "codigo": "PMDMu",
+        "alumnos": 10,
+        "carrera_id": 29,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 370,
+        "codigo": "PMDMo",
+        "alumnos": 10,
+        "carrera_id": 30,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "P",
+        "comentario": ""
+    },
+    {
+        "id": 371,
+        "codigo": "VII2",
+        "alumnos": 1,
+        "carrera_id": 11,
+        "semestre": 2,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 373,
+        "codigo": "VAN",
+        "alumnos": 3,
+        "carrera_id": 15,
+        "semestre": 0,
+        "anio": 2017,
+        "periodo": "V",
+        "comentario": ""
+    },
+    {
+        "id": 374,
+        "codigo": "102-A",
+        "alumnos": 29,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 375,
+        "codigo": "102-B",
+        "alumnos": 29,
+        "carrera_id": 2,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 376,
+        "codigo": "302-A",
+        "alumnos": 24,
+        "carrera_id": 2,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 377,
+        "codigo": "502-A",
+        "alumnos": 18,
+        "carrera_id": 2,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 378,
+        "codigo": "702-A",
+        "alumnos": 24,
+        "carrera_id": 2,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 379,
+        "codigo": "902-A",
+        "alumnos": 15,
+        "carrera_id": 2,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 380,
+        "codigo": "MTCA-1",
+        "alumnos": 10,
+        "carrera_id": 12,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 381,
+        "codigo": "MTCA-3",
+        "alumnos": 3,
+        "carrera_id": 12,
+        "semestre": 2,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 382,
+        "codigo": "106-A",
+        "alumnos": 22,
+        "carrera_id": 10,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 383,
+        "codigo": "306-A",
+        "alumnos": 9,
+        "carrera_id": 10,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 384,
+        "codigo": "506-A",
+        "alumnos": 9,
+        "carrera_id": 10,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 385,
+        "codigo": "706-A",
+        "alumnos": 9,
+        "carrera_id": 10,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 386,
+        "codigo": "906-A",
+        "alumnos": 10,
+        "carrera_id": 10,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 387,
+        "codigo": "103-A",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 388,
+        "codigo": "103-B",
+        "alumnos": 30,
+        "carrera_id": 8,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 390,
+        "codigo": "303-A",
+        "alumnos": 27,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 391,
+        "codigo": "303-B",
+        "alumnos": 28,
+        "carrera_id": 8,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 393,
+        "codigo": "503-A",
+        "alumnos": 26,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 394,
+        "codigo": "503-B",
+        "alumnos": 29,
+        "carrera_id": 8,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 395,
+        "codigo": "703-A",
+        "alumnos": 22,
+        "carrera_id": 8,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 397,
+        "codigo": "903-A",
+        "alumnos": 34,
+        "carrera_id": 8,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 398,
+        "codigo": "104-A",
+        "alumnos": 17,
+        "carrera_id": 4,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 399,
+        "codigo": "304-A",
+        "alumnos": 28,
+        "carrera_id": 4,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 400,
+        "codigo": "504-A",
+        "alumnos": 9,
+        "carrera_id": 4,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 401,
+        "codigo": "704-A",
+        "alumnos": 11,
+        "carrera_id": 4,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 402,
+        "codigo": "904-A",
+        "alumnos": 14,
+        "carrera_id": 4,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 403,
+        "codigo": "117-A",
+        "alumnos": 30,
+        "carrera_id": 7,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 404,
+        "codigo": "317-A",
+        "alumnos": 8,
+        "carrera_id": 7,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 405,
+        "codigo": "517-A",
+        "alumnos": 14,
+        "carrera_id": 7,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 406,
+        "codigo": "717-A",
+        "alumnos": 8,
+        "carrera_id": 7,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 407,
+        "codigo": "917-A",
+        "alumnos": 4,
+        "carrera_id": 7,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 408,
+        "codigo": "114-A",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 409,
+        "codigo": "114-B",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 410,
+        "codigo": "114-C",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 411,
+        "codigo": "114-D",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 412,
+        "codigo": "114-E",
+        "alumnos": 28,
+        "carrera_id": 5,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 413,
+        "codigo": "314-A",
+        "alumnos": 25,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 414,
+        "codigo": "314-B",
+        "alumnos": 26,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 415,
+        "codigo": "314-C",
+        "alumnos": 26,
+        "carrera_id": 5,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 416,
+        "codigo": "514-A",
+        "alumnos": 25,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 417,
+        "codigo": "714-A",
+        "alumnos": 36,
+        "carrera_id": 5,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 418,
+        "codigo": "914-A",
+        "alumnos": 26,
+        "carrera_id": 5,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 419,
+        "codigo": "111-A",
+        "alumnos": 22,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 420,
+        "codigo": "111-B",
+        "alumnos": 22,
+        "carrera_id": 11,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 421,
+        "codigo": "311-A",
+        "alumnos": 38,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 422,
+        "codigo": "311-B",
+        "alumnos": 36,
+        "carrera_id": 11,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 423,
+        "codigo": "511-A",
+        "alumnos": 38,
+        "carrera_id": 11,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 424,
+        "codigo": "711-A",
+        "alumnos": 24,
+        "carrera_id": 11,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 425,
+        "codigo": "911-A",
+        "alumnos": 24,
+        "carrera_id": 11,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 426,
+        "codigo": "105-A",
+        "alumnos": 31,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 427,
+        "codigo": "105-B",
+        "alumnos": 31,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 428,
+        "codigo": "105-C",
+        "alumnos": 30,
+        "carrera_id": 9,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 429,
+        "codigo": "305-A",
+        "alumnos": 32,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 430,
+        "codigo": "305-B",
+        "alumnos": 32,
+        "carrera_id": 9,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 431,
+        "codigo": "505-A",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 432,
+        "codigo": "505-B",
+        "alumnos": 24,
+        "carrera_id": 9,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 433,
+        "codigo": "705-A",
+        "alumnos": 37,
+        "carrera_id": 9,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 435,
+        "codigo": "905-A",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 436,
+        "codigo": "107-A",
+        "alumnos": 23,
+        "carrera_id": 6,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 437,
+        "codigo": "307-A",
+        "alumnos": 7,
+        "carrera_id": 6,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 438,
+        "codigo": "507-A",
+        "alumnos": 7,
+        "carrera_id": 6,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 439,
+        "codigo": "707-A",
+        "alumnos": 5,
+        "carrera_id": 6,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 440,
+        "codigo": "907-A",
+        "alumnos": 3,
+        "carrera_id": 6,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 441,
+        "codigo": "MEOSIA-1",
+        "alumnos": 10,
+        "carrera_id": 18,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 442,
+        "codigo": "MEOSIA-3",
+        "alumnos": 2,
+        "carrera_id": 18,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 443,
+        "codigo": "MCPNYA-1",
+        "alumnos": 10,
+        "carrera_id": 20,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 444,
+        "codigo": "MCPNYA-3",
+        "alumnos": 10,
+        "carrera_id": 20,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 445,
+        "codigo": "DR-1",
+        "alumnos": 2,
+        "carrera_id": 24,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 446,
+        "codigo": "MADN-1",
+        "alumnos": 15,
+        "carrera_id": 15,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 447,
+        "codigo": "MADN-3",
+        "alumnos": 15,
+        "carrera_id": 15,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 448,
+        "codigo": "DTCA-1",
+        "alumnos": 5,
+        "carrera_id": 13,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 449,
+        "codigo": "MCM-1",
+        "alumnos": 5,
+        "carrera_id": 31,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 450,
+        "codigo": "MCM-3",
+        "alumnos": 5,
+        "carrera_id": 31,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 451,
+        "codigo": "MDM-1",
+        "alumnos": 5,
+        "carrera_id": 30,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 452,
+        "codigo": "MDM-3",
+        "alumnos": 5,
+        "carrera_id": 30,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 453,
+        "codigo": "MDMu-1",
+        "alumnos": 5,
+        "carrera_id": 29,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 454,
+        "codigo": "MDMu-3",
+        "alumnos": 5,
+        "carrera_id": 29,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 455,
+        "codigo": "MTAM-1",
+        "alumnos": 10,
+        "carrera_id": 16,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 456,
+        "codigo": "MTAM-3",
+        "alumnos": 10,
+        "carrera_id": 16,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 457,
+        "codigo": "MTCA-1",
+        "alumnos": 10,
+        "carrera_id": 12,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 458,
+        "codigo": "MTCA-3",
+        "alumnos": 5,
+        "carrera_id": 12,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 459,
+        "codigo": "MR-1",
+        "alumnos": 10,
+        "carrera_id": 19,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 460,
+        "codigo": "MR-3",
+        "alumnos": 5,
+        "carrera_id": 19,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 461,
+        "codigo": "MMI-1",
+        "alumnos": 5,
+        "carrera_id": 14,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 462,
+        "codigo": "MMI-3",
+        "alumnos": 5,
+        "carrera_id": 14,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 463,
+        "codigo": "MMM-1",
+        "alumnos": 5,
+        "carrera_id": 21,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 464,
+        "codigo": "MMM-3",
+        "alumnos": 5,
+        "carrera_id": 21,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 465,
+        "codigo": "DMM-1",
+        "alumnos": 5,
+        "carrera_id": 23,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 466,
+        "codigo": "DMM-3",
+        "alumnos": 5,
+        "carrera_id": 23,
+        "semestre": 3,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 467,
+        "codigo": "DMM-5",
+        "alumnos": 5,
+        "carrera_id": 23,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 468,
+        "codigo": "905-B",
+        "alumnos": 26,
+        "carrera_id": 9,
+        "semestre": 9,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 469,
+        "codigo": "131-A",
+        "alumnos": 45,
+        "carrera_id": 32,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 470,
+        "codigo": "703-B",
+        "alumnos": 22,
+        "carrera_id": 8,
+        "semestre": 7,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 471,
+        "codigo": "514-B",
+        "alumnos": 30,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 472,
+        "codigo": "514-C",
+        "alumnos": 25,
+        "carrera_id": 5,
+        "semestre": 5,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    },
+    {
+        "id": 473,
+        "codigo": "131-B",
+        "alumnos": 30,
+        "carrera_id": 32,
+        "semestre": 1,
+        "anio": 2017,
+        "periodo": "A",
+        "comentario": ""
+    }
+]

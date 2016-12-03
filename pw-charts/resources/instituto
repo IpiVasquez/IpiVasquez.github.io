@@ -1,0 +1,67 @@
+[
+    {
+        "id": 2,
+        "nombre": "Instituto de Computaci\u00f3n",
+        "color": "Orange"
+    },
+    {
+        "id": 14,
+        "nombre": "Instituto de Electr\u00f3nica y Mecatr\u00f3nica",
+        "color": "Red"
+    },
+    {
+        "id": 15,
+        "nombre": "Instituto de Ciencias Sociales y Humanidades",
+        "color": "Green"
+    },
+    {
+        "id": 16,
+        "nombre": "Instituto de Agroindustrias",
+        "color": "Brown"
+    },
+    {
+        "id": 17,
+        "nombre": "Instituto de Dise\u00ed\u00f1o",
+        "color": "Purple"
+    },
+    {
+        "id": 18,
+        "nombre": "Instituto de F\u00ed\u00ad\u00ed\u00adsica y Matem\u00e1ticas",
+        "color": "Black"
+    },
+    {
+        "id": 19,
+        "nombre": "Instituto de Hidrolog\u00ed\u00ad\u00ed\u00ada",
+        "color": "Blue"
+    },
+    {
+        "id": 20,
+        "nombre": "Instituto de Miner\u00ed\u00ada",
+        "color": "Gray"
+    },
+    {
+        "id": 21,
+        "nombre": "Divisi\u00f3n de Estudios de Posgrado",
+        "color": "Yellow"
+    },
+    {
+        "id": 23,
+        "nombre": "Jefatura de Ingenier\u00ed\u00ad\u00ed\u00ada Industrial",
+        "color": ""
+    },
+    {
+        "id": 24,
+        "nombre": "Centro de Idiomas",
+        "color": ""
+    },
+    {
+        "id": 25,
+        "nombre": "Universidad Virtual",
+        "color": ""
+    },
+    {
+        "id": 26,
+        "nombre": "Nova Universitas",
+        "color": ""
+    }
+]
