@@ -40,3 +40,16 @@ a {
 #myList {
     list-style: none;
 }
+
+#entry {
+    margin: 10px;
+    padding: 10px;
+    background: #f9f9f9;
+    color: #151515;
+    line-height: 1.5;
+    font-family: Helvetica, SansSerif;
+}
+
+#entry h1, #entry h2, #entry h3, #entry h4, #entry h5, #entry h6 {
+    color: #4c9050;
+}
