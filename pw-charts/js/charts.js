@@ -294,7 +294,7 @@ function majorCharter(responseText) {
         options: {
             title: {
                 display: true,
-                text: 'Matricula por carrera'
+                text: 'Matricula por carrera (Al inicio del año escolar)'
             },
             responsiveAnimationDuration: 5,
             responsive: true,
@@ -331,7 +331,9 @@ function fillMajorData() {
     for (i = 0; i < majorObj.length; i++) {
         // Get groups matching year selected
         var groups = groupObj.filter(function (data) {
-            return data['anio'] == $('yearSelector').value && data['carrera_id'] == majorObj[i]['id'];
+            return data['anio'] == $('yearSelector').value
+                && data['carrera_id'] == majorObj[i]['id']
+                && (data['periodo'] == 'A' || data['periodo'] == 'V');
         });
         // Increment number of students per year if a group matches
         for (var j = 0; j < groups.length; j++) {
