@@ -1,5 +1,4 @@
 "use strict";
-
 var baseURL = 'resources/';
 
 var instituteObj;
