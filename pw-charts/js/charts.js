@@ -252,6 +252,7 @@ function majorCharter1(responseText) {
         element.appendChild(e('option', key));
         element.lastChild.value = key;
     }
+    element.addEventListener('change', fillMajorData1);
     element.addEventListener('change', fillMajorData2);
     element.style.margin = '10px';
     // Append it inside a form inside #year
@@ -333,7 +334,8 @@ function fillMajorData1() {
         var groups = groupObj.filter(function (data) {
             return data['anio'] == $('yearSelector').value
                 && data['carrera_id'] == majorObj[i]['id']
-                && (data['periodo'] == 'A' || data['periodo'] == 'V');
+                && data['semestre'] != 0
+                && (data['periodo'] == 'A' || data['periodo'] == 'P');
         });
         // Increment number of students per year if a group matches
         for (var j = 0; j < groups.length; j++) {
@@ -359,6 +361,8 @@ function fillMajorData2() {
     for (i = 0; i < majorObj.length; i++) {
         // Get groups matching year selected
         var groups = groupObj.filter(function (data) {
+            if (data['anio'] == '2016' && data['carrera_id'] >= 12 && data['periodo'] != 'P')
+                console.log(data);
             return data['anio'] == $('yearSelector').value
                 && data['carrera_id'] == majorObj[i]['id']
                 && (data['periodo'] == 'B' || data['periodo'] == 'V');
