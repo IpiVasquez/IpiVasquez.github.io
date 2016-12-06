@@ -12,8 +12,9 @@ var instituteChart;
 var instituteCanvas;
 var instituteData;
 var majorChart;
-var majorCanvas;
+var majorChart2;
 var majorData;
+var majorData2;
 
 var colors;
 var color;
@@ -236,9 +237,9 @@ function leyendClick(evt, legendItem) {
     }
 }
 // Creates chart for major
-function majorCharter(responseText) {
+function majorCharter1(responseText) {
+    var majorCanvas;
     var i, aux = {}, element;
-    var yearElement = $('year');
     // Parse to object the response
     groupObj = JSON.parse(responseText);
     // Auxiliar to get all different years in aux so we add element select
@@ -252,10 +253,10 @@ function majorCharter(responseText) {
         element.appendChild(e('option', key));
         element.lastChild.value = key;
     }
-    element.addEventListener('change', fillMajorData);
+    element.addEventListener('change', fillMajorData2);
     element.style.margin = '10px';
     // Append it inside a form inside #year
-    yearElement.appendChild(e('form', element));
+    $('year').appendChild(e('form', element));
     // Create variable for datasets and for label datasets
     var datasets = [];
     aux = ['Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
@@ -284,7 +285,7 @@ function majorCharter(responseText) {
     // Create canvas for chart and append it to the respective element
     majorCanvas = document.createElement('canvas');
     majorCanvas.style.background = 'white';
-    yearElement.appendChild(majorCanvas);
+    $('year').appendChild(majorCanvas);
     // Some chart config
     var ctx = majorCanvas.getContext('2d');
     ctx.canvas.height = majorObj.length * 6 + 100;
@@ -315,10 +316,10 @@ function majorCharter(responseText) {
     // Create the chart
     majorChart = new Chart(ctx, config);
     // Fill with the real data and update it
-    fillMajorData();
+    fillMajorData1();
 }
 // Fills majorData then updates majorChart
-function fillMajorData() {
+function fillMajorData1() {
     var i;
 
     // Set all major data at 0
@@ -345,6 +346,100 @@ function fillMajorData() {
 
     majorChart.update();
 }
+// Fills majorData then updates majorChart
+function fillMajorData2() {
+    var i;
+
+    // Set all major data at 0
+    majorData2.datasets.forEach(function (dataset) {
+        dataset.data = dataset.data.map(function () {
+            return 0;
+        });
+    });
+    // Go through majorObj array
+    for (i = 0; i < majorObj.length; i++) {
+        // Get groups matching year selected
+        var groups = groupObj.filter(function (data) {
+            return data['anio'] == $('yearSelector').value
+                && data['carrera_id'] == majorObj[i]['id']
+                && (data['periodo'] == 'B' || data['periodo'] == 'V');
+        });
+        // Increment number of students per year if a group matches
+        for (var j = 0; j < groups.length; j++) {
+            var k = Math.ceil(groups[j]['semestre'] / 2);
+            if (k)
+                majorData2.datasets[k - 1]['data'][i] += groups[j]['alumnos'];
+        }
+    }
+
+    majorChart2.update();
+}
+// Creates chart for major
+function majorCharter2() {
+    var majorCanvas;
+    var i, aux;
+    // Create variable for datasets and for label datasets
+    var datasets = [];
+    aux = ['Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
+    // Fill datasets config and initializes with 0 every dataset
+    for (i = 0; i < aux.length; i++) {
+        datasets[i] = {
+            label: aux[i],
+            backgroundColor: color(colors[i]).alpha(0.5).rgbString(),
+            borderColor: colors[i],
+            borderWidth: 1,
+            data: []
+        };
+        // Initialize each dataset with 0
+        for (var j = 0; j < majorObj.length; j++)
+            datasets[i]['data'][j] = 0;
+    }
+    // Create labels for chart
+    var labels = [];
+    for (i = 0; i < majorObj.length; i++)
+        labels[i] = majorObj[i]['nombre'];
+    // Define majorData
+    majorData2 = {
+        labels: labels,
+        datasets: datasets
+    };
+    // Create canvas for chart and append it to the respective element
+    majorCanvas = document.createElement('canvas');
+    majorCanvas.style.background = 'white';
+    $('year').appendChild(majorCanvas);
+    // Some chart config
+    var ctx = majorCanvas.getContext('2d');
+    ctx.canvas.height = majorObj.length * 6 + 100;
+    var config = {
+        type: 'horizontalBar',
+        data: majorData2,
+        options: {
+            title: {
+                display: true,
+                text: 'Matricula por carrera (Al final del año escolar)'
+            },
+            responsiveAnimationDuration: 5,
+            responsive: true,
+            legend: {
+                display: false,
+                position: 'bottom',
+                onClick: leyendClick
+            },
+            scales: {
+                xAxes: [{
+                    stacked: true
+                }],
+                yAxes: [{
+                    stacked: true
+                }]
+            }
+        }
+    };
+    // Create the chart
+    majorChart2 = new Chart(ctx, config);
+    // Fill with the real data and update it
+    fillMajorData2();
+}
 // Prepares some elements of the interface
 function prepareInterface() {
     color = Chart.helpers.color;
@@ -367,7 +462,8 @@ function prepareInterface() {
     get(baseURL + 'carrera', function (responseText) {
         majorObj = JSON.parse(responseText);
     });
-    get(baseURL + 'grupo', majorCharter);
+    get(baseURL + 'grupo', majorCharter1);
+    get(baseURL + 'grupo', majorCharter2);
     get(baseURL + 'profesor', instituteCharter);
 }
 
