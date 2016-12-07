@@ -259,7 +259,7 @@ function majorCharter1(responseText) {
     $('year').appendChild(e('form', element));
     // Create variable for datasets and for label datasets
     var datasets = [];
-    aux = ['Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
+    aux = ['Propedéutico', 'Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
     // Fill datasets config and initializes with 0 every dataset
     for (i = 0; i < aux.length; i++) {
         datasets[i] = {
@@ -334,14 +334,12 @@ function fillMajorData1() {
         var groups = groupObj.filter(function (data) {
             return data['anio'] == $('yearSelector').value
                 && data['carrera_id'] == majorObj[i]['id']
-                && data['semestre'] != 0
                 && (data['periodo'] == 'A' || data['periodo'] == 'P');
         });
         // Increment number of students per year if a group matches
         for (var j = 0; j < groups.length; j++) {
             var k = Math.ceil(groups[j]['semestre'] / 2);
-            if (k)
-                majorData.datasets[k - 1]['data'][i] += groups[j]['alumnos'];
+            majorData.datasets[k]['data'][i] += groups[j]['alumnos'];
         }
     }
 
@@ -370,8 +368,7 @@ function fillMajorData2() {
         // Increment number of students per year if a group matches
         for (var j = 0; j < groups.length; j++) {
             var k = Math.ceil(groups[j]['semestre'] / 2);
-            if (k)
-                majorData2.datasets[k - 1]['data'][i] += groups[j]['alumnos'];
+            majorData2.datasets[k]['data'][i] += groups[j]['alumnos'];
         }
     }
 
@@ -383,7 +380,7 @@ function majorCharter2() {
     var i, aux;
     // Create variable for datasets and for label datasets
     var datasets = [];
-    aux = ['Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
+    aux = ['Propedéutico', 'Primer año', 'Segundo año', 'Tercer año', 'Cuarto año', 'Quinto año'];
     // Fill datasets config and initializes with 0 every dataset
     for (i = 0; i < aux.length; i++) {
         datasets[i] = {
