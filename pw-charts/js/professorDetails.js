@@ -1,6 +1,6 @@
 "use strict";
 
-var baseURL = 'http://edutm.utm.mx:9000/?/db/';
+var baseURL = 'resources/';
 var instituteObj;
 var professorsObj;
 var majorObj;
