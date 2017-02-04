@@ -4,17 +4,212 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>H&eacute;ctor J. V&aacute;squez</title>
-    <meta name="description" content="H&eacute;ctor J. V&aacute;squez resume.">
+    <meta name="description" content="H&eacute;ctor J. V&aacute;squez personal page.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="canonical" href="/">
     <link rel="icon" href="img/favicon.png">
 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-pink.min.css">
     <link rel="stylesheet" href="css/main.css">
 
     <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/lib/jquery-1.12.0.min.js"><\/script>')</script>
+    <script src="https://cdn.rawgit.com/showdownjs/showdown/1.6.3/dist/showdown.min.js"></script>
+    <script>
+        //noinspection JSUnresolvedVariable
+        window.showdown || document.write('<script src="js/lib/showdown.min.js"><\/script>')
+    </script>
 </head>
 <body>
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <header class="mdl-layout__header portfolio-header">
+        <div class="mdl-layout__header-row portfolio-logo-row">
+            <div class="mdl-layout__title">
+                <!--div class="portfolio-logo"></div-->
+                <h1 class="mdl-layout__title">H&eacute;ctor J. V&aacute;squez</h1>
+            </div>
+        </div>
+        <div class="mdl-layout__header-row portfolio-navigation-row mdl-layout--large-screen-only">
+            <nav id="nav-large" class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+                <a href="#about" class="mdl-navigation__link is-active">About</a>
+                <a href="#contact" class="mdl-navigation__link">Contact</a>
+                <a href="#showcase" class="mdl-navigation__link">Showcase</a>
+                <a href="#blog" class="mdl-navigation__link">Blog</a>
+            </nav>
+        </div>
+    </header>
+    <div class="mdl-layout__drawer mdl-layout--small-screen-only">
+        <nav id="nav-small" class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+            <!-- Here I place tabs -->
+        </nav>
+    </div>
+    <main class="mdl-layout__content">
+        <div class="mdl-grid portfolio-max-width">
+            <div id="about" class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp" style="display: block;">
+                <div class="mdl-card__title">
+                    <h2 class="mdl-card__title-text">H&eacute;ctor J. V&aacute;squez</h2>
+                </div>
 
+                <div class="mdl-grid portfolio-copy">
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">About me</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p>
+                            Hi, I'm H&eacute;ctor! I'm a Mexican Software Developer. Some people know me as Ipi, my
+                            nickname.
+                            I'm studying Computer Engineering at Technological University of the Mixteca.
+                            I'm looking for the opportunity to grow as a Software Developer and/or AI researcher.
+                        </p>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Education</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p>
+                            Technological University of the Mixteca - Oax, MX<br>
+                            Future BS in Computer Engineer
+                        </p>
+                        <p>
+                            I'm currently studying
+                            <a href="http://www.utm.mx/ing_computacion.html">Computer Engineering</a> at
+                            <a class="mdl-link" href="http://www.utm.mx">Technological University of the Mixteca.</a>
+                            I'm looking forward to specialize me in Artificial Intelligence and Software Development.
+                            Then I'd like to study a masters degree in Applied Computing.
+                        </p>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Technical skills</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <h6 class="mdl-cell">Methodologies</h6>
+                        <p>
+                            Model View Controller, Unified Modeling Language, Design patterns,
+                            Extreme programming & Scrum.
+                        </p>
+                        <h6 class="mdl-cell">Languages</h6>
+                        <p>
+                            <strong>Strong knowledge in</strong> Python, JS, Java, C/C++ & Unix shell.
+                            <strong>Medium knowledge in</strong> NodeJS, HTML/CSS, PHP, Prolog, Assembly & SQL.
+                            <strong>Basic knowledge in</strong> Ruby.
+                        </p>
+                        <h6 class="mdl-cell">APIs</h6>
+                        <p>
+                            <strong>Strong knowledge in</strong> Django, jQuery.
+                            <strong>Medium knowledge in</strong> Polymer, ChartsJS.
+                            <strong>Basic knowledge in</strong> AngularJS, ReactJS.
+                        </p>
+                        <h6 class="mdl-cell">OS</h6>
+                        <ol>
+                            <li>Linux (Debian based distros)</li>
+                            <li>Windows 7, 10</li>
+                            <li>Mac</li>
+                        </ol>
+                        <h6 class="mdl-cell">Some other technical skills</h6>
+                        <p>
+                            <strong>Middleware:</strong> Apache & Nginx.<br>
+                            <strong>Databases:</strong> MySQL, SQLite, PostgreSQL.<br>
+                            <strong>Networking:</strong> TCP/IP, HTTP, WebSockets.<br>
+                            <strong>Tools:</strong> IntelliJ IDEA, Eclipse, Github.<br>
+                        </p>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Certifications</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p>
+                            Still to come ...
+                        </p>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Accomplishments</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p>
+
+                        </p>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Goals</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p>
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="contact" class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp" style="display: none;">
+                <div class="mdl-card__title">
+                    <h2 class="mdl-card__title-text">Find me</h2>
+                </div>
+
+                <div class="mdl-grid portfolio-copy">
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">My work</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <ul>
+                            <li><a href="https://www.linkedin.com/in/IpiVasquez" target="_blank">LinkedIn</a></li>
+                            <li><a href="https://www.github.com/IpiVasquez" target="_blank">Github</a></li>
+                        </ul>
+                    </div>
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Social networks</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <ul>
+                            <li>
+                                <strong>e-mail: </strong>
+                                <a href="mailto:ipi.vasquez@gmail.com" target="_blank">
+                                    ipi.vasquez@gmail.com
+                                </a>
+                            </li>
+                            <li>
+                                <strong>G+:</strong>
+                                <a href="https://plus.google.com/+HectorVasquezEnriquez" target="_blank">
+                                    fb/ipi.vasquez
+                                </a>
+                            </li>
+                            <li>
+                                <strong>Facebook:</strong>
+                                <a href="https://www.facebook.com/ipi.vasquez" target="_blank">
+                                    fb/ipi.vasquez
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="showcase" class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp" style="display: none;">
+                <div class="mdl-card__title">
+                    <h2 class="mdl-card__title-text">Showcase</h2>
+                </div>
+
+                <div class="mdl-grid portfolio-copy">
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Working on it</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div id="blog" class="mdl-cell mdl-cell--12-col mdl-card mdl-shadow--4dp" style="display: none;">
+                <div class="mdl-card__title">
+                    <h2 class="mdl-card__title-text">Blog</h2>
+                </div>
+
+                <div class="mdl-grid portfolio-copy">
+                    <h3 class="mdl-cell mdl-cell--12-col mdl-typography--headline">Working on it</h3>
+                    <div class="mdl-cell mdl-cell--10-col mdl-card__supporting-text no-padding">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer__left-section">
+                <ul class="mdl-mini-footer__link-list">
+                    <li><a href="https://plus.google.com/+HectorVasquezEnriquez" target="_blank">G+</a></li>
+                    <li><a href="https://www.facebook.com/ipi.vasquez" target="_blank">Facebook</a></li>
+                    <li><a href="https://www.linkedin.com/in/IpiVasquez" target="_blank">LinkedIn</a></li>
+                    <li><a href="https://www.github.com/IpiVasquez" target="_blank">Github</a></li>
+                </ul>
+            </div>
+            <div class="mdl-mini-footer__right-section">
+                <div class="mdl-logo">&copy; H&eacute;ctor J. V&aacute;squez 2017</div>
+            </div>
+        </footer>
+    </main>
+</div>
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
